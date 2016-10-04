@@ -1,4 +1,6 @@
-﻿using System;
+﻿// Have the function FirstReverse(str) take the str parameter being passed and return the string in reversed order.
+
+using System;
 
 namespace FirstReverse
 {
